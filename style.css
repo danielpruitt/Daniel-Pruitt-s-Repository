@@ -1,0 +1,32 @@
+body {
+    background-color:palegoldenrod;
+    padding:1%;
+}
+
+h1 {
+    font-weight:bolder;
+}
+
+section {
+    background-color:rgb(93, 116, 77);
+    text-align:center;
+}
+
+img { 
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:40%
+}
+
+ul {
+    list-style-type: none;
+}
+
+.daniel {
+    background-color: olive;
+}
+
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
